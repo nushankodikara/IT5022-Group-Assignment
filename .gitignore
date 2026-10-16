@@ -1,6 +1,5 @@
 .venv
 .DS_Store
-IT5022_Machine_Learning_Assignment.ipynb
 Datasets/
 *.csv
 __pycache__/
