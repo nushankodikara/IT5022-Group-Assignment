@@ -1,6 +1,9 @@
 .venv
 .DS_Store
-Datasets/
-*.csv
+**/.DS_Store
 __pycache__/
 *.pyc
+
+# Ignore full reconstructed CSV files > 50MB to stay within GitHub file size limits
+Datasets/nyc-taxi-trip-duration/train.csv
+Datasets/nyc-taxi-trip-duration/test.csv
