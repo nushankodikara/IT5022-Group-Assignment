@@ -3,3 +3,6 @@ https://www.kaggle.com/c/nyc-taxi-trip-duration
 
 GitHub Repository:
 https://github.com/nushankodikara/IT5022-Group-Assignment
+
+Youtube Video
+https://youtu.be/J5xB6jdsz-4
