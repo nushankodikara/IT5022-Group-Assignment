@@ -6,4 +6,5 @@ __pycache__/
 
 # Ignore full reconstructed CSV files > 50MB to stay within GitHub file size limits
 Datasets/nyc-taxi-trip-duration/train.csv
-Datasets/nyc-taxi-trip-duration/test.csv.ipynb_checkpoints/
+Datasets/nyc-taxi-trip-duration/test.csv
+.ipynb_checkpoints/
